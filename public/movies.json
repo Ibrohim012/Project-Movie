@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Jangchilar darvozasi",
+    "viewers": 8,
+    "favourite": false,
+    "like": true
+  },
+  {
+    "id": 3,
+    "name": "Qaroqchi chollar",
+    "viewers": 34,
+    "favourite": false,
+    "like": false
+  }
+]
