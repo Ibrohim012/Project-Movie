@@ -6,6 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+Project-Movie/db.json/
+Project-Movie/public/movies.json
+Project-Movie/node_modules
 
 node_modules
 .DS_Store
